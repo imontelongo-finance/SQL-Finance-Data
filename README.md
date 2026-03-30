@@ -1,5 +1,3 @@
-# Revenue Integrity & Automated Audit Engine (Finance 4.0)
-
 ## 📌 Executive Summary
 This repository contains a modular SQL-based **Revenue Assurance Pipeline** designed for high-growth marketplace platforms (e.g., Wolt, UberEats). The system automates the reconciliation between operational "App" events and the General Ledger, identifying revenue leakage and SOX compliance risks in real-time.
 
